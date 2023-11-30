@@ -8,9 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "socialnetworknosql"
+    "url": "https://github.com/spartanchick619/SocialNetworkNoSQL"
   },
   "author": "",
-  "license": "MIT",
-  "keywords": []
+  "license": "MIT"
+  },
+  "dependencies":{
+    "name": "name",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {}
+  }
 }
