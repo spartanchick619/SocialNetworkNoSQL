@@ -93,8 +93,8 @@ const thoughtController = {
         }
         res.json({ message: "Thought successfully deleted!" });
       })
-.     catch((err) => res.json(err));
-},
+      .catch((err) => res.json(err));
+  },
 
   addReaction({ params, body }, res) {
     Thought.findOneAndUpdate(
