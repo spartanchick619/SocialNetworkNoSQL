@@ -3,7 +3,7 @@ const {
   getAllThoughts,
   getThoughtsById,
   createThought,
-  deleteThoihgts,
+  deleteThought,
   updateThoughtById,
   createReaction,
   deleteReaction,
