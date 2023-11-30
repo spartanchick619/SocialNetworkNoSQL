@@ -24,4 +24,4 @@ GitHub: https://github.com/spartanchick619
 
 ## Contact
 
-For any questions, feel free to rweach out to me at rosa.m42@icloud.com
+For any questions, feel free to reach out to me at rosa.m42@icloud.com
